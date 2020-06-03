@@ -1,0 +1,5 @@
+{
+	"prefix": "$",
+	"token": "client token here (very sensitive info)",
+	"invalidperm": "insufficient permissions "
+}
