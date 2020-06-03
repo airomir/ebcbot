@@ -503,7 +503,6 @@ const changelog = new Discord.MessageEmbed()
 			else message.reply(invperm);
 		}
 		
-	// SIKRET KOMEND HEHE
 	
 		if(command === 'sidorovich'){
 		if (message.author.id === '273738314446667776') {
@@ -554,7 +553,7 @@ const changelog = new Discord.MessageEmbed()
 			var infoEmbed = new Discord.MessageEmbed()
 				.setColor('#FFFFFF')
 				.setURL('https://discord.js.org/')
-				.setAuthor('eBc Bot', 'http://explicitbouncers.com/images/sapunjika.png', 'https://jovic.online')
+				.setAuthor('eBc Bot', 'http://explicitbouncers.com/images/sapunjika.png', 'https://explicitbouncers.com')
 				.setDescription('Version: v2.1.0')
 				.setThumbnail('http://explicitbouncers.com/images/ebcwhite.png')
 				.addField('Use `$changelog` in #ebc-bot to see ' + `what's new in the latest version` ,`Made by <@273738314446667776>`);
